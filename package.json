@@ -1,0 +1,18 @@
+{
+  "name": "nodll",
+  "bin": {
+    "nodll": "./cli.js"
+  },
+  "version": "1.0.0",
+  "description": "node.js C# dll repl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christoph.hagebrock@googlemail.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-api-dotnet": "^0.4.33"
+  }
+}
